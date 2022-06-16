@@ -1,4 +1,4 @@
-#Question
+# Question
 
 Use the source code as shown in the video, but alter it to satisfy the following conditions
 
@@ -11,7 +11,7 @@ Your program should show the reaction strings in the order of greatest sensitivi
 Your program should be parametric, It is should be intuitive and easy to obtain 'n' number of sensitive reactions with respect to the asked parameter, by simply changing a number.
 
 
-'''python
+´´´´python
 import sys
 import numpy as np #numpy is used to calculate matlab like functions
 import matplotlib.pyplot as plt #Used to plot 
@@ -83,4 +83,4 @@ plt.ylabel('Reactions')
 plt.title('Most sensitive reactions')
 plt.tight_layout()
 plt.show()
-'''
+´´´´
