@@ -102,6 +102,8 @@ plt.show()
 
 The below graphs shows the most sensible reactions
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/102049896/174102818-6900cfa2-1519-4486-8812-3b6ae621e418.png">
+</p>
 
-![1](https://user-images.githubusercontent.com/102049896/174102818-6900cfa2-1519-4486-8812-3b6ae621e418.png)
 
