@@ -98,10 +98,10 @@ plt.title('Most sensitive reactions')
 plt.tight_layout()
 plt.show()
 ```
-# Graphs
+# Graphs | Most Sensitive Reactions
 
 The below graphs shows the most sensible reactions
 
-Most Sensitive Reactions
-![Most Sensitive Reactions](https://user-images.githubusercontent.com/102049896/174102818-6900cfa2-1519-4486-8812-3b6ae621e418.png)
+
+![1](https://user-images.githubusercontent.com/102049896/174102818-6900cfa2-1519-4486-8812-3b6ae621e418.png)
 
