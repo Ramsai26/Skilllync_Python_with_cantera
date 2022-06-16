@@ -10,6 +10,19 @@ Your program should show the reaction strings in the order of greatest sensitivi
 
 Your program should be parametric, It is should be intuitive and easy to obtain 'n' number of sensitive reactions with respect to the asked parameter, by simply changing a number.
 
+# Answer
+
+# Aim: Find the 10 most sensitive reactions out of the first 100 reactions 
+
+As per GRI mechanism there are 325 total reactions present in that were finding 10 most sensitive reactions for first 100 reactions
+
+So here we need to use some new class to acquire the first 100 reactions from the gri
+
+# Context:
+
+In reaction mechanism there are multiple elementary reaction that takes place which results in creation of Intermediate species until it reaches the chemical equilibrum. So depending upon the elementary reaction operating conditions we can know how fastly combustion takes place can be known.
+
+So simply altering the parameters of the operating conditions changes the outcome of the  reactions. So here by doing sensitive analysis we can find what are the sensitive reaction which ate easily manipulated by temperature,pressure or mass fractions etc
 
 ```python
 import sys
